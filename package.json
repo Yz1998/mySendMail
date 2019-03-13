@@ -1,0 +1,14 @@
+{
+  "name": "mySendMail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yz1998/mySendMail.git",
+  "author": "yangzhen <1004887727@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^5.1.1"
+  },
+  "scripts": {
+    "start": "node mail.js"
+  }
+}
